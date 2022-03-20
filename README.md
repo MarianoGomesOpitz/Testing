@@ -20,7 +20,9 @@ Mientras que el archivo local debe crearse en la carpeta raiz del repositorio a 
 
 	* 
 	> #Ignorar el archivo específico
-	  ignorado.txt
+
+	> ignorado.txt
 	* 
 	> #Ignorar todos los archivos de tal extensión
-	  *.txt
+
+	> *.txt
