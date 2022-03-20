@@ -11,6 +11,7 @@ A la hora de utilizar el archivo para ignorar un elemento, se emplean ciertos s�
 Imaginemonos que tenemos un archivo llamado "ignorado.txt" que deseamos ignorar. Existen diversas maneras de hacer ésto:
 
 1. Se puede utilizar el archivo .gitignore global o local. Para añadir o modificar el archivo global, se debe ejecutar el siguiente comando:
+
 	```
 	git config --global core.excludesfile ~/.gitignore_global
 	```
