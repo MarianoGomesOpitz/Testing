@@ -1,3 +1,4 @@
 # Archivo .gitignore
 - primero
-- segundo - tercero
+- segundo
+- tercero
