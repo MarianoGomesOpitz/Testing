@@ -31,4 +31,4 @@ Mientras que el archivo local debe crearse en la carpeta raiz del repositorio a 
 	*.txt
 	````
 
-[Biliografía](https://www.freecodecamp.org/news/gitignore-what-is-it-and-how-to-add-to-repo/)
+_[Biliografía](https://www.freecodecamp.org/news/gitignore-what-is-it-and-how-to-add-to-repo/)_
