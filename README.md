@@ -19,8 +19,8 @@ Mientras que el archivo local debe crearse en la carpeta raiz del repositorio a 
 2. Para decidir como ignorar el archivo "ignorado.txt" hay dos formas:
 
 	* 
-	> #Ignorar el archivo específico
-	> ignorado.txt
+	  #Ignorar el archivo específico
+	  ignorado.txt
 	* 
-	> #Ignorar todos los archivos de tal extensión
-	> *.txt
+	  #Ignorar todos los archivos de tal extensión
+	  *.txt
