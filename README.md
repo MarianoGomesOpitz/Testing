@@ -30,3 +30,5 @@ Mientras que el archivo local debe crearse en la carpeta raiz del repositorio a 
 	#Ignorar todos los archivos de tal extensión
 	*.txt
 	````
+
+[Biliografía](https://www.freecodecamp.org/news/gitignore-what-is-it-and-how-to-add-to-repo/)
