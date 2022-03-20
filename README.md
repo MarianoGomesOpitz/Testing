@@ -14,7 +14,6 @@ Imaginemonos que tenemos un archivo llamado "ignorado.txt" que deseamos ignorar.
 	````
 	git config --global core.excludesfile ~/.gitignore_global
 	````
-
 Este comando creará el archivo ~/.gitignore_global, con éste se puede decidir cual elemento ignorar en todos los repositorios.
 Mientras que el archivo local debe crearse en la carpeta raiz del repositorio a trabajar.
 
